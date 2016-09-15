@@ -1353,7 +1353,7 @@ Scott Caban	Mr.	Scott	Caban	2730 Cameron Road	Niagara Falls	NY	14301	ScottKCaban
 Jane Harrington	Mrs.	Jane	Harrington	4179 Lincoln Drive	Manheim	PA	17545	JaneKHarrington@jourrapide.com	Occupational health and safety technician	Idea Infinity
 Andrew Bone	Mr.	Andrew	Bone	2115 Ross Street	Harrisburg	IL	62946	AndrewCBone@fleckens.hu	U.S. Deputy Marshal	Happy Bear Investment
 James Williams	Mr.	James	Williams	156 Harper Street	Robards	KY	42452	JamesAWilliams@jourrapide.com	Apartment leasing agent	Jay Jacobs
-Coy Palmer	Mr.	Coy	Palmer	4515 Del Dew Drive	Clinton	MD	20735	CoyMPalmer@jourrapide.com	IT manager	Official All Star Café
+Coy Palmer	Mr.	Coy	Palmer	4515 Del Dew Drive	Clinton	MD	20735	CoyMPalmer@jourrapide.com	IT manager	Official All Star Cafï¿½
 Rafael Dematteo	Mr.	Rafael	Dematteo	1151 Pritchard Court	Rochester	MN	55902	RafaelADematteo@fleckens.hu	Audio and video equipment operator	Crown Auto Parts
 Mark Campbell	Mr.	Mark	Campbell	4039 Brentwood Drive	Austin	TX	78758	MarkMCampbell@fleckens.hu	Credit reporter	Morville
 Chester Lisle	Mr.	Chester	Lisle	624 Oakway Lane	City Of Commerce	CA	90040	ChesterSLisle@fleckens.hu	Power plant distributor	Ardan's
@@ -1522,7 +1522,7 @@ Wayne Neese	Mr.	Wayne	Neese	3384 Stewart Street	Indianapolis	IN	46204	WayneCNees
 Carlos Oldenburg	Mr.	Carlos	Oldenburg	243 Big Indian	New Orleans	LA	70112	CarlosMOldenburg@einrot.com	Control and valve repairer	Super Saver Foods
 Mariann Robles	Mrs.	Mariann	Robles	3100 Ripple Street	Grand Rapids	MI	49503	MariannDRobles@einrot.com	Crushing grinding and polishing machine operator	The Polka Dot Bear Tavern
 Earl Guzman	Mr.	Earl	Guzman	4975 Rockwell Lane	New Bern	NC	28560	EarlHGuzman@rhyta.com	Telephone station installer	Forth & Towne
-Maria Terry	Mrs.	Maria	Terry	3045 Gerald L. Bates Drive	Boston	MA	02107	MariaRTerry@superrito.com	Health services manager	Official All Star Café
+Maria Terry	Mrs.	Maria	Terry	3045 Gerald L. Bates Drive	Boston	MA	02107	MariaRTerry@superrito.com	Health services manager	Official All Star Cafï¿½
 Martha Landry	Ms.	Martha	Landry	4172 Overlook Drive	Indianapolis	IN	46278	MarthaSLandry@gustr.com	Accounts payable clerk	Janeville
 Roland Crowe	Mr.	Roland	Crowe	4071 Cecil Street	Chicago	IL	60610	RolandBCrowe@fleckens.hu	Structural metal fitter	Jitney Jungle
 Zachary Carmona	Mr.	Zachary	Carmona	1961 Green Gate Lane	Odenton	MD	21113	ZacharyMCarmona@armyspy.com	Extractive metallurgical engineer	Prahject Planner
@@ -2365,7 +2365,7 @@ Waldo McMahon	Mr.	Waldo	McMahon	3963 Birch  Street	El Paso	TX	79922	WaldoRMcMaho
 Lani Nelson	Ms.	Lani	Nelson	3332 Renwick Drive	Allentown	PA	18109	LaniRNelson@fleckens.hu	Vascular technologist	Complete Tech
 Kathleen Edmonds	Ms.	Kathleen	Edmonds	1881 Eden Drive	Richmond	VA	23223	KathleenREdmonds@superrito.com	Applicator	Netcore
 Keith Allen	Mr.	Keith	Allen	1059 Shadowmar Drive	Kenner	LA	70062	KeithFAllen@rhyta.com	Electric line worker	Wealthy Ideas
-Michelle Castellano	Ms.	Michelle	Castellano	2800 Alexander Avenue	Pleasanton	CA	94588	MichelleCCastellano@cuvox.de	Practical nurses	Official All Star Café
+Michelle Castellano	Ms.	Michelle	Castellano	2800 Alexander Avenue	Pleasanton	CA	94588	MichelleCCastellano@cuvox.de	Practical nurses	Official All Star Cafï¿½
 Bruce Clayton	Mr.	Bruce	Clayton	169 Gordon Street	Fullerton	CA	93632	BruceAClayton@cuvox.de	Language pathologist	Huffman and Boyle
 Allison McArthur	Mrs.	Allison	McArthur	2619 Emma Street	Honolulu	HI	96814	AllisonGMcArthur@teleworm.us	Parking enforcement worker	Kragen Auto Parts
 Angeline Vaughan	Ms.	Angeline	Vaughan	2469 Cambridge Drive	Youngtown	AZ	85363	AngelineRVaughan@superrito.com	Materials scientist	Jafco
@@ -2575,7 +2575,7 @@ Tammy Evers	Ms.	Tammy	Evers	4269 Plainfield Avenue	Parish	NY	13131	TammyCEvers@d
 Dominique Boothe	Ms.	Dominique	Boothe	2721 Virginia Street	Buffalo Grove	IL	60089	DominiqueMBoothe@dayrep.com	Prosthetics technician	Newmark & Lewis
 Jose Munoz	Mr.	Jose	Munoz	4639 Ingram Road	Asheboro	NC	27203	JoseJMunoz@cuvox.de	Radio announcer	Liberty Wealth Planner
 Mary Bradshaw	Ms.	Mary	Bradshaw	948 Monroe Street	Houston	TX	77040	MaryWBradshaw@fleckens.hu	Control and valve installer	Reliable Investments
-Oscar Bermudez	Mr.	Oscar	Bermudez	1184 Confederate Drive	Syracuse	NY	13221	OscarVBermudez@einrot.com	Tour guide	Official All Star Café
+Oscar Bermudez	Mr.	Oscar	Bermudez	1184 Confederate Drive	Syracuse	NY	13221	OscarVBermudez@einrot.com	Tour guide	Official All Star Cafï¿½
 Lonnie Coomes	Mr.	Lonnie	Coomes	4178 Crestview Manor	Indianapolis	IN	46204	LonniePCoomes@fleckens.hu	Political geographer	STM Auto Parts
 Amanda Head	Ms.	Amanda	Head	2527 Biddie Lane	Richmond	VA	23228	AmandaEHead@gustr.com	PBX installer	Golden Dawn
 Daniel Woods	Mr.	Daniel	Woods	4698 Maryland Avenue	Largo	FL	34640	DanielOWoods@gustr.com	State police officer	JumboSports
@@ -3436,7 +3436,7 @@ Carol Petty	Mrs.	Carol	Petty	3567 Longview Avenue	Bronx	NY	10461	CarolBPetty@cuv
 Therese Sykes	Mrs.	Therese	Sykes	1749 Grey Fox Farm Road	Alvin	TX	77511	ThereseMSykes@jourrapide.com	Content editor	AJ Bayless
 Richard Kersey	Mr.	Richard	Kersey	4167 Hill Croft Farm Road	Redding	CA	96003	RichardEKersey@fleckens.hu	Administrative manager	Monk Home Improvements
 Sheena Kitchen	Ms.	Sheena	Kitchen	4511 Wayback Lane	Brentwood	NY	11717	SheenaMKitchen@armyspy.com	Financial analyst	Omni Realty
-Lee Bennett	Mr.	Lee	Bennett	3750 Heather Sees Way	Tulsa	OK	74120	LeeLBennett@fleckens.hu	Survey researcher	Official All Star Café
+Lee Bennett	Mr.	Lee	Bennett	3750 Heather Sees Way	Tulsa	OK	74120	LeeLBennett@fleckens.hu	Survey researcher	Official All Star Cafï¿½
 Helena Banks	Ms.	Helena	Banks	4419 Evergreen Lane	City Of Commerce	CA	90040	HelenaABanks@rhyta.com	Telemarketer	Adaptabiz
 Dixie Chmura	Mrs.	Dixie	Chmura	3836 Lindale Avenue	San Jose	CA	95131	DixieHChmura@jourrapide.com	Workforce development specialist	Showbiz Pizza Place
 Rebecca Beaman	Mrs.	Rebecca	Beaman	743 Hart Country Lane	Augusta	GA	30901	RebeccaMBeaman@armyspy.com	Older worker specialist	Liberty Wealth Planners

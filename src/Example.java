@@ -13,7 +13,7 @@ public class Example {
 		} catch (FileNotFoundException e) {
 			System.out.println("error, file not found");
 		}
-		scan.useDelimiter("\\t");
+		scan.useDelimiter("\\t|\\n");
 		// Printing the delimiter used
 		System.out.println("The delimiter is "+scan.delimiter());
 		
@@ -31,17 +31,21 @@ public class Example {
 		
 		//skip the first line which contains headers
 		scan.nextLine();
-		for (int i=0;i<25;i++){
+		//for (int i=0;i<1;i++){
+		while (scan.hasNext()){
 			Customer c = new Customer();
 			c.setFullName(scan.next());
 			c.setSalutation(scan.next());
 			c.setFirstName(scan.next());
 			c.setLastName(scan.next());
 			c.setAddress(scan.next());
+			scan.next();
+			scan.next();
+			scan.next();
 			c.setEmail(scan.next());
 			c.setPosition(scan.next());
 			c.setCompany(scan.next());
-			scan.nextLine();
+			//scan.nextLine();
 			System.out.println(c.getFullName());
 			
 
@@ -53,6 +57,14 @@ public class Example {
 			writer.println(c.getEmail());
 			
 		}
+		
+		//retrieving from the linkedList
+		for (Customer cust: customers){
+		//	System.out.println(cust.getFullName());
+		}
+		//to get a particular 
+		
+		
 		// closing the scanner stream
 		scan.close();
 		//close the print writer
